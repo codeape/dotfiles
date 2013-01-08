@@ -18,7 +18,7 @@ export MAVEN_OPTS="-Xmx1536m -XX:MaxPermSize=1024m -Dcom.sun.management.jmxremot
 export MAVEN_OPTS="-Xmx1536m -XX:MaxPermSize=1024m -Dcom.sun.management.jmxremote -Dcom.sun.management.jmxremote.authenticate=false -Dcom.sun.management.jmxremote.ssl=false"
 
 if [ -f `brew --prefix`/etc/bash_completion ]; then
-	. `brew --prefix`/etc/bash_completion
+    . `brew --prefix`/etc/bash_completion
 fi
 
 alias l33tprompt='source $HOME/lib/l33tprompt.sh'
