@@ -7,8 +7,8 @@ export CLICOLOR=1
 
 export LESSCHARSET="UTF-8"
 export CHARSET="UTF-8"
-export LANG="sv_SE"
-export LC_ALL="sv_SE"
+export LANG="sv_SE.UTF-8"
+export LC_ALL="sv_SE.UTF-8"
 
 export JAVA_HOME=/System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK/Home
 #export JAVA_HOME=/Library/Java/JavaVirtualMachines/jdk1.7.0_07.jdk/Contents/Home
