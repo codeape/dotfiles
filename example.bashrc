@@ -1,2 +1,2 @@
-source $HOME/lib/bashrc.sh
+source $HOME/lib/l33tprompt.sh
 
