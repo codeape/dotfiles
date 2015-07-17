@@ -1,0 +1,4 @@
+glew-utils
+glew-dev
+mesa-common-dev
+http://www.cplusplus.com/forum/unices/25479/
